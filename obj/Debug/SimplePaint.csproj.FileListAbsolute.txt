@@ -1,0 +1,5 @@
+C:\Users\blvtu\Downloads\SimplePaint\bin\Debug\SimplePaint.exe.config
+C:\Users\blvtu\Downloads\SimplePaint\obj\Debug\SimplePaint.csprojResolveAssemblyReference.cache
+C:\Users\blvtu\Downloads\SimplePaint\obj\Debug\SimplePaint.FrmMain.resources
+C:\Users\blvtu\Downloads\SimplePaint\obj\Debug\SimplePaint.Properties.Resources.resources
+C:\Users\blvtu\Downloads\SimplePaint\obj\Debug\SimplePaint.csproj.GenerateResource.Cache
